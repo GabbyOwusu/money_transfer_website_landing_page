@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Preview 
+
+![Screenshot](https://github.com/GabbyOwusu/money_transfer_website_landing_page/blob/main/images/Screenshot%20(13).png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
