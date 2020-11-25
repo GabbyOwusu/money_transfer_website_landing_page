@@ -6,7 +6,7 @@ A new Flutter project.
 
 ![Screenshot](https://github.com/GabbyOwusu/money_transfer_website_landing_page/blob/main/images/Screenshot%20(13).png)
 
-[Original Design](https://dribbble.com/shots/7404770-MoneyTransfer-Hero-section)
+Originally Designed by [Vadim Drut](https://dribbble.com/shots/7404770-MoneyTransfer-Hero-section)
 
 ## Getting Started
 
